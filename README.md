@@ -21,5 +21,5 @@ Use '0' to switch to Random Algorithm.
 
 ![App Screenshot](game_board.png)
 
-![Console Screenshot](game_colsole.png)
+![Console Screenshot](game_console.png)
 
